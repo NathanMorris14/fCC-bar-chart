@@ -1,0 +1,59 @@
+svg{
+    background-color: #ADDFFF;
+    border: 2px solid black;
+    box-shadow: 5px 5px 20px;
+ }
+ #tooltip {
+   position: absolute;
+   top: 725px;
+   width: 150px;
+   height: auto;
+   padding: 10px;
+   background-color: white;
+   border-radius: 10px;
+   box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+   opacity: 0.9;
+ }
+
+ #tooltip p {
+   margin: 0;
+   font-family: sans-serif;
+   font-size: 16px;
+   line-height: 20px;
+   box-shadow: 2px 1px 2px;
+   
+ }  
+ .axis text {
+     font-family: sans-serif;
+     font-size: 12px;
+ }
+ body{
+   background-color: #C2Dfff;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+ }
+ 
+ h1{
+   text-align: center;
+   color: black;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   padding-top: 50px;
+   font-size: 4em;
+ }
+
+ #description{
+   color: CornflowerBlue ;
+   text-align: center;
+   font-size: 14px;
+   padding: 10px 10px 10px 10px;
+ }
+
+ #title {
+  font-size: 1.7em;
+ }
+
+ #information {
+  padding: 20px;
+ }
